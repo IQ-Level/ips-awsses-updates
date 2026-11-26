@@ -1,6 +1,6 @@
 {
-    "longversion": 12000,
-    "version": "1.2.0",
+    "longversion": 12010,
+    "version": "1.2.1",
     "released": "2026-11-26",
-    "updateurl": "https://raw.githubusercontent.com/IQ-Level/ips-awsses-updates/main/awsses-1.2.0.tar"
+    "updateurl": "https://raw.githubusercontent.com/IQ-Level/ips-awsses-updates/main/awsses-1.2.1.tar"
 }
